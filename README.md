@@ -1,5 +1,6 @@
 # CS230
 Main Project for CS 230: Operating Platforms
+
 The Gaming Room is a client who desired a web-based application for running a gam titled "Draw It or Lose It". This game would allow for one or more players to be assigned to one or more teams which participated in a game. Multiple games could be stored by the game service, although each game could only have one instance.
 Game data is stored on a password-protected REST API.
 
